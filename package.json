@@ -1,0 +1,26 @@
+{
+  "name": "jsonplaceholder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YProblemka/JSONPlaceholder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YProblemka/JSONPlaceholder/issues"
+  },
+  "homepage": "https://github.com/YProblemka/JSONPlaceholder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongodb": "^4.1.4",
+    "multer": "^1.4.3"
+  }
+}
